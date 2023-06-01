@@ -21,6 +21,7 @@ package com.vacaciones;
 /*Henfy Magallanes 100474214*/
 /*Leonardo Pimentel 100474469*/
 /*Jose Miguel Nuñez 100181714*/
+/*Francis Alcantara Luciano 100438497*/
 
 public class Vacaciones {
 
